@@ -73,6 +73,8 @@
   <sessionParameters>SessionParameter.ТекущийПользователь</sessionParameters>
   <roles>Role.ПолныеПрава</roles>
   <roles>Role.ТолькоЧтение</roles>
+  <commonTemplates>CommonTemplate.RegExLin32</commonTemplates>
+  <commonTemplates>CommonTemplate.RegExLin64</commonTemplates>
   <commonModules>CommonModule.ДополнительныеОтчетыИОбработки</commonModules>
   <commonModules>CommonModule.ДополнительныеОтчетыИОбработкиВызовСервера</commonModules>
   <commonModules>CommonModule.ДополнительныеОтчетыИОбработкиКлиент</commonModules>
